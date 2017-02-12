@@ -51,3 +51,6 @@ group :development do
   gem 'spring'
 end
 
+gem 'devise'
+gem 'twitter-bootstrap-rails'
+gem 'devise-bootstrap-views'
